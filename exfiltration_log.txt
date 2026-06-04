@@ -1,0 +1,5 @@
+Simulated data exfiltration to attacker.com
+Simulated data exfiltration to test.com
+Simulated data exfiltration to hacker.com
+Simulated data exfiltration to test.com
+Simulated data exfiltration to hacker.com
